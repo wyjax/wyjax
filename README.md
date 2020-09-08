@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyjax)](https://github.com/wyjax/wyjax)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyjax)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wyjax/wyjax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
