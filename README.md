@@ -1,6 +1,6 @@
 ### Hello World 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwyjax%2Fwyjax&count_bg=%23000000&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyjax&count_private=true&show_icons=true&title_color=ffd400&icon_color=ffdf5d&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyjax&count_private=true&show_icons=true&title_color=ffd400&icon_color=ffdf5d&text_color=eee&bg_color=151515)
 
 <!--
 **wyjax/wyjax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
