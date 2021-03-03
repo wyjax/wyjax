@@ -1,6 +1,6 @@
 ### Hello World 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwyjax%2Fwyjax&count_bg=%23000000&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-공부 겁나게 합시다.
+만나서 반갑습니다. 코딩하는 사람입니다.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyjax&count_private=true&show_icons=true&title_color=ffd400&icon_color=ffdf5d&text_color=eee&bg_color=202020)
 
