@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyjax)](https://github.com/wyjax/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wyjax&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wyjax/github-readme-stats#gh-dark-mode-only)
 
 <!--
 **wyjax/wyjax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
