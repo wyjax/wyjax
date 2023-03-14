@@ -1,5 +1,6 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wyjax&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wyjax/github-readme-stats#gh-dark-mode-only)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwyjax&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **wyjax/wyjax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
